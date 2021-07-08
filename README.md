@@ -1,2 +1,3 @@
 # RestaurantOrderingApp
-A basic Food Ordering App for Android. Built with Reactive Native, Node.JS and Javascript
+
+A basic demo of a restaurant ordering app. This app was made for Android and built using React Native. 
